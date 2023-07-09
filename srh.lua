@@ -1,1 +1,1 @@
-print("nigger")
+print("kill yourself")
